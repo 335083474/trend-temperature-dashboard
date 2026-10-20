@@ -2,16 +2,18 @@
   "title": "趋势温度观察台",
   "siteUrl": "https://335083474.github.io/trend-temperature-dashboard/",
   "repository": "335083474/trend-temperature-dashboard",
-  "packagedAt": "2026-10-20T12:11:29.178130+00:00",
+  "packagedAt": "2026-10-20T15:46:08.942035+00:00",
   "snapshotAt": "2026-10-20T18:00:06.32239+08:00",
-  "snapshotFile": "snapshot.7cdebb58de6f7fc43dac979d19f2316a0c5a5fa06f15fe2c916c387b5b714b1f.json",
-  "snapshotSha256": "7cdebb58de6f7fc43dac979d19f2316a0c5a5fa06f15fe2c916c387b5b714b1f",
-  "htmlSha256": "e2802d0bb72d77bd7c8a1db4ae01da54caf155334e19ccd75eb19dc0b0b5b74a",
+  "snapshotFile": "snapshot.5dff8d5ee3517d619d345a8ce068fd5d6100b117c3780508893713c3098d2667.json",
+  "snapshotSha256": "5dff8d5ee3517d619d345a8ce068fd5d6100b117c3780508893713c3098d2667",
+  "htmlSha256": "bde93c1cc1712d82ef90e0e5a0b6fac70d55ab85a238daf404bcf1cfdf908a3d",
   "queryRows": {
     "temperature_observations": 675,
-    "local_market_prices": 4798
+    "local_market_prices": 4798,
+    "stock_temperature_observations": 28,
+    "stock_market_prices": 332
   },
-  "observationRowsSha256": "ab1a622a9491ec7451ea2ef206d985ef3067e6057a22e45991ec53e2e12335a6",
+  "observationRowsSha256": "f9f3ff2c848657bd185f3a06a964a8aa7408ab2ebe185499f4941cc533ae1a00",
   "observationRowsUnchanged": true,
   "publicationAdjustments": [
     "Removed local Codex thread routing metadata",
