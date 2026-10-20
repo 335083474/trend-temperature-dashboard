@@ -1,0 +1,127 @@
+{
+  "title": "趋势温度观察台",
+  "siteUrl": "https://335083474.github.io/trend-temperature-dashboard/",
+  "repository": "335083474/trend-temperature-dashboard",
+  "packagedAt": "2026-10-20T10:25:47.963285+00:00",
+  "snapshotAt": "2026-10-20T10:00:06.322390+00:00",
+  "snapshotFile": "snapshot.2aede531149ee36e5b8cc07a1030844245038b9d19cac939723dc7dcf4539437.json",
+  "snapshotSha256": "2aede531149ee36e5b8cc07a1030844245038b9d19cac939723dc7dcf4539437",
+  "htmlSha256": "3b2eff4c4d5da8fa0dc6fcbfa1c5123967d83313660872fcee2036a6a2ad9f9d",
+  "queryRows": {
+    "temperature_observations": 675,
+    "local_market_prices": 4798
+  },
+  "observationRowsSha256": "ab1a622a9491ec7451ea2ef206d985ef3067e6057a22e45991ec53e2e12335a6",
+  "observationRowsUnchanged": true,
+  "publicationAdjustments": [
+    "Removed local Codex thread routing metadata",
+    "Reduced source file paths to filenames; retained hashes and provenance",
+    "Rebound relative content-addressed snapshot metadata"
+  ],
+  "coverage": [
+    {
+      "id": "510300.SH",
+      "asset": "A股",
+      "label": "沪深300 ETF · 510300.SH",
+      "name": "华泰柏瑞沪深300ETF",
+      "currency": "人民币",
+      "kind": "candles",
+      "status": "proxy_only",
+      "limitation": "本地ETF不复权日线；不是产品大类指数，币种、分红、溢价、交易日历及指数成分可能不同。",
+      "first": "2024-01-02",
+      "last": "2026-09-16",
+      "rows": 657
+    },
+    {
+      "id": "159920.SZ",
+      "asset": "港股",
+      "label": "恒生 ETF · 159920.SZ",
+      "name": "华夏恒生ETF(QDII)",
+      "currency": "人民币",
+      "kind": "candles",
+      "status": "proxy_only",
+      "limitation": "本地ETF不复权日线；不是产品大类指数，币种、分红、溢价、交易日历及指数成分可能不同。",
+      "first": "2024-01-02",
+      "last": "2026-09-16",
+      "rows": 657
+    },
+    {
+      "id": "513100.SH",
+      "asset": "美股",
+      "label": "纳指100 ETF · 513100.SH",
+      "name": "国泰纳斯达克100ETF(QDII)",
+      "currency": "人民币",
+      "kind": "candles",
+      "status": "proxy_only",
+      "limitation": "本地ETF不复权日线；不是产品大类指数，币种、分红、溢价、交易日历及指数成分可能不同。",
+      "first": "2024-01-02",
+      "last": "2026-09-16",
+      "rows": 657
+    },
+    {
+      "id": "513500.SH",
+      "asset": "美股",
+      "label": "标普500 ETF · 513500.SH",
+      "name": "博时标普500ETF(QDII)",
+      "currency": "人民币",
+      "kind": "candles",
+      "status": "proxy_only",
+      "limitation": "本地ETF不复权日线；不是产品大类指数，币种、分红、溢价、交易日历及指数成分可能不同。",
+      "first": "2024-01-02",
+      "last": "2026-09-16",
+      "rows": 657
+    },
+    {
+      "id": "518880.SH",
+      "asset": "黄金",
+      "label": "黄金 ETF · 518880.SH",
+      "name": "华安易富黄金ETF",
+      "currency": "人民币",
+      "kind": "candles",
+      "status": "proxy_only",
+      "limitation": "本地ETF不复权日线；不是产品大类指数，币种、分红、溢价、交易日历及指数成分可能不同。",
+      "first": "2024-01-02",
+      "last": "2026-09-16",
+      "rows": 657
+    },
+    {
+      "id": "AU0",
+      "asset": "黄金",
+      "label": "AU0 主连期货",
+      "name": "黄金主连期货",
+      "currency": "人民币",
+      "kind": "candles",
+      "status": "proxy_only",
+      "limitation": "已有新浪主连快照；换月、价格和日期口径未确认与产品相同，只用于独立行情对照。",
+      "first": "2025-01-02",
+      "last": "2026-10-16",
+      "rows": 431
+    },
+    {
+      "id": "SC0",
+      "asset": "原油",
+      "label": "SC0 主连期货",
+      "name": "原油主连期货",
+      "currency": "人民币",
+      "kind": "candles",
+      "status": "proxy_only",
+      "limitation": "已有新浪主连快照；换月、价格和日期口径未确认与产品相同，只用于独立行情对照。",
+      "first": "2025-01-02",
+      "last": "2026-10-16",
+      "rows": 431
+    },
+    {
+      "id": "A_LOCAL_AGGREGATE",
+      "asset": "A股",
+      "label": "本地A股聚合价格",
+      "name": "本地股票聚合价格代理",
+      "currency": "归一化点位",
+      "kind": "line",
+      "status": "proxy_only",
+      "limitation": "本地聚合价格代理，只有点位和成交额，没有OHLC；聚合定义尚未认证等同产品。",
+      "first": "2024-01-02",
+      "last": "2026-09-08",
+      "rows": 651
+    }
+  ]
+}
