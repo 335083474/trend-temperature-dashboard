@@ -2,11 +2,11 @@
   "title": "趋势温度观察台",
   "siteUrl": "https://335083474.github.io/trend-temperature-dashboard/",
   "repository": "335083474/trend-temperature-dashboard",
-  "packagedAt": "2026-10-21T12:21:12.020235+00:00",
+  "packagedAt": "2026-10-21T12:23:56.760645+00:00",
   "snapshotAt": "2026-10-21T12:21:09.369547+00:00",
   "snapshotFile": "snapshot.635b43e8d428e6d2f56ed8012d2fce82b7b13e480cfaff19655d71e60733bb36.json",
   "snapshotSha256": "635b43e8d428e6d2f56ed8012d2fce82b7b13e480cfaff19655d71e60733bb36",
-  "htmlSha256": "3ce8ccaa66b4d33916b8bef236e3af1e8c7c83e05d4c7074ed70a45e0c5cf719",
+  "htmlSha256": "c44794810f31448dfd3e244edddaa41b7aef6345ab1b62d47b89d95b6fc73906",
   "queryRows": {
     "temperature_observations": 675,
     "local_market_prices": 4798,
