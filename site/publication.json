@@ -2,11 +2,11 @@
   "title": "趋势温度观察台",
   "siteUrl": "https://335083474.github.io/trend-temperature-dashboard/",
   "repository": "335083474/trend-temperature-dashboard",
-  "packagedAt": "2026-10-21T12:23:56.760645+00:00",
-  "snapshotAt": "2026-10-21T12:21:09.369547+00:00",
-  "snapshotFile": "snapshot.635b43e8d428e6d2f56ed8012d2fce82b7b13e480cfaff19655d71e60733bb36.json",
-  "snapshotSha256": "635b43e8d428e6d2f56ed8012d2fce82b7b13e480cfaff19655d71e60733bb36",
-  "htmlSha256": "c44794810f31448dfd3e244edddaa41b7aef6345ab1b62d47b89d95b6fc73906",
+  "packagedAt": "2026-10-22T22:41:52.375571+00:00",
+  "snapshotAt": "2026-10-22T22:35:26.020226+00:00",
+  "snapshotFile": "snapshot.99468b7ba0753bfbcf98cbe47627387daf42501355ecf379b226743a3d7cb32b.json",
+  "snapshotSha256": "99468b7ba0753bfbcf98cbe47627387daf42501355ecf379b226743a3d7cb32b",
+  "htmlSha256": "88980b30f20c2cc60f614b652a59765a04eefc5043b87d124ccee303b153f114",
   "queryRows": {
     "temperature_observations": 675,
     "local_market_prices": 4798,
@@ -44,9 +44,11 @@
     "recent_hunt_day_gaps": 18,
     "recent_egg_day_observations": 59,
     "recent_egg_day_prices": 0,
-    "recent_egg_day_gaps": 1
+    "recent_egg_day_gaps": 1,
+    "warm_exit65_cases": 65,
+    "warm_exit65_history": 8542
   },
-  "observationRowsSha256": "a3474aeb85843a9cc1346586a346c40831f117684788a54650926785df9e6324",
+  "observationRowsSha256": "78a4a6aa608c4cf12265c1303a623adc3ce002c3cd245afa962eb9c77ab3a17d",
   "observationRowsUnchanged": true,
   "publicationAdjustments": [
     "Removed local Codex thread routing metadata",
